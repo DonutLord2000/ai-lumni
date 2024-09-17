@@ -38,7 +38,7 @@
         <div class="login-box">
             <div class="logo">
                 <img src="/images/grc.png" alt="Icon" class="logo-icon">
-                <h1>Login</h1>
+                <h1>Log in</h1>
             </div>
 
             @if ($errors->any())
